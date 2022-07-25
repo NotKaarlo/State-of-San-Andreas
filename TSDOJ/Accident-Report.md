@@ -1,14 +1,18 @@
 `Report`
 `Case` #444778496112091
 ---
-⋅⋅⋅`Location` 141 Innocence Blvd, Crusade Rd, Davis Los Santos
+`Location` 141 Innocence Blvd, Crusade Rd, Davis Los Santos
+
 `Call` Report
 
 `Officer` Officer Kaarlo 9Z-81
+
 `Date` 07/25/2022 `Time` 04:59
 
 `Involved` Officer Kaarlo
+
 `Suspects` *None Suspect Right Now*
+
 `Victims` Darrel Sampson (Deceased)
 
 `Report`
@@ -29,13 +33,13 @@ Run) and more charges if its added.
 1. `#Report`
 2. `#Involved`
 
-Here is a simple footnote[^1].
+`#Report[^Info].
 
 A footnote can also have multiple lines[^2].  
 
 You can also use words, to fit your writing style more closely[^note].
 
-[^1]: My reference.
+[^Info]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
 [^note]:
