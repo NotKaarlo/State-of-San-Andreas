@@ -41,9 +41,5 @@
 >> ```
 >> ```diff
 >> -Department: Los Santos Police Department
+>> ```
 >> </details>
->
----
-> ``` diff
-> ! Created At 2022/07/25 18:59
-> ```
