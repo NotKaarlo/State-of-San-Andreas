@@ -1,38 +1,52 @@
-`#Report`
----
-`Case` #444778496112091
-
-`Location` 141 Innocence Blvd, Crusade Rd, Davis Los Santos
-
-`Call` Report
-
-`Officer` Officer Kaarlo 9Z-81
-
-`Date` 07/25/2022 `Time` 04:59
-
-`#Details`
----
-`Involved` Officer Kaarlo
-
-`Suspects` *None Suspect Right Now*
-
-`Victims` Darrel Sampson (Deceased)
-
-`#Statement`
----
-```
-I was on patrol and i saw a car crashed and the victim laying on the road. I call EMS to the scene. They could not save the victim and i call coroner. 
-I looks up the car (plate:29GEF477) the victim is not the car owner. 
-The owner names is (Janelle Bowers) and has a expired driver license since(12/11/2021). I will visit the car owners adress(1621 Wst Grove Street, Paleto Bay). 
-The victim (Darrel Sampson) family will be informed and Cause Of Death (Crash with Vehicles(Head Injury From Collisions). 
-If we find the person that fleed the scene. Dafantant will then be charge with(Manslaughter, Hit&Run) and more charges if its addes up on the case.
-(LSPD Officer-Kaarlo) (Accident Report)
-```
-----
-> #### `#State Of San Andreas Statement`
+> `#Record`
+> ---
+> `Case` #444778496112091
 >
-> - County: TSDOJ
-> - Department: Los Santos Police Department
-> 
+> `Location` 141 Innocence Blvd, Crusade Rd, Davis Los Santos
+>
+> `Call` Report
+>
+> `Officer` Officer Kaarlo 9Z-81
+>
+> `Date` 07/25/2022 `Time` 04:59
+
+> `#Individual Details`
+> ---
+> `Involved` Officer Kaarlo
+>
+> `Suspects` *None Suspect Right Now*
+>
+> `Victims` Darrel Sampson (Deceased)
+
+> `#Case Statement`
+> ---
+> ```diff
+> + I was on patrol and i saw a car crashed and the victim laying on the road. I call EMS to the scene. 
+> + They could not save the victim and i call coroner. I looks up the car (plate:29GEF477) the victim is not the car owner. 
+> + The owner names is (Janelle Bowers) and has a expired driver license since(12/11/2021). 
+> + I will visit the car owners adress(1621 Wst Grove Street, Paleto Bay). 
+> + The victim (Darrel Sampson) family will be informed and Cause Of Death (Crash with Vehicles(Head Injury From Collisions). 
+> + If we find the person that fleed the scene. Dafantant will then be charge with(Manslaughter, Hit&Run) 
+> + and more chargers will be added if they brake any law.
+> - (LSPD Officer-Kaarlo) (Accident Report)
+> ```
+>> #### `#State Of San Andreas Statement`
+>> ```diff
+>> -County TSDOJ
+>> ```
+>> ```
+>> -Department +Los Santos Police Department
+>> ```
+
 
 [San Andreas, Department](none)
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
