@@ -1,16 +1,16 @@
 `Report`
-`Case` #444778496112091
+⋅⋅⋅`Case` #444778496112091
 ---
 `Location` 141 Innocence Blvd, Crusade Rd, Davis Los Santos
 `Call` Report
----
+
 `Officer` Officer Kaarlo 9Z-81
 `Date` 07/25/2022 `Time` 04:59
----
+
 `Involved` Officer Kaarlo
 `Suspects` *None Suspect Right Now*
 `Victims` Darrel Sampson (Deceased)
----
+
 `Report`
 ```
 I was on patrol and i saw a car crashed and the victim laying on the road. I call EMS to
