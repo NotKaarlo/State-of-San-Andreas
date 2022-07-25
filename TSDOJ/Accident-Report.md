@@ -28,25 +28,22 @@
 > + The victim (Darrel Sampson) family will be informed and Cause Of Death (Crash with Vehicles(Head Injury From Collisions). 
 > + If we find the person that fleed the scene. Dafantant will then be charge with(Manslaughter, Hit&Run) 
 > + and more chargers will be added if they brake any law.
-> - (LSPD Officer-Kaarlo) (Accident Report)
+> ! (LSPD Officer-Kaarlo) (Accident Report)
 > ```
->> #### `#State Of San Andreas Statement`
+>> ## `#State Of San Andreas`
+>> <details>
+>>    <summary>Statement</summary>
+>> 
+>> #### We can hide anything, even code!
+>> 
 >> ```diff
->> -County TSDOJ
+>> +County: TSDOJ
 >> ```
->> ```
->> -Department +Los Santos Police Department
->> ```
-
-
-[San Andreas, Department](none)
-
-Here is a simple flow chart:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+>> ```diff
+>> -Department: Los Santos Police Department
+>> </details>
+>
+---
+> ``` diff
+> ! Created At 2022/07/25 18:59
+> ```
