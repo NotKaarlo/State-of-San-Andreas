@@ -28,9 +28,11 @@ The victim (Darrel Sampson) family will be informed and Cause Of Death (Crash wi
 If we find the person that fleed the scene. Dafantant will then be charge with(Manslaughter, Hit&Run) and more charges if its addes up on the case.
 (LSPD Officer-Kaarlo) (Accident Report)
 ```
----
+----
 > #### `#State Of San Andreas Statement`
 >
-> - State: TSDOJ
+> - County: TSDOJ
 > - Department: Los Santos Police Department
 > 
+
+[San Andreas, Department](none)
