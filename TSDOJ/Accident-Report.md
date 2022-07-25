@@ -34,10 +34,7 @@ Run) and more charges if its added.
   <dd>`Case` #444778496112091</dd>
 </dl>
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>`Case` #444778496112091</dd>
-</dl>
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
