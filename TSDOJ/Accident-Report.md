@@ -43,3 +43,5 @@
 >> -Department: Los Santos Police Department
 >> ```
 >> </details>
+
+![LSPD](https://user-images.githubusercontent.com/109157146/180847654-11f2adba-09e9-40fb-b21a-b54140c7162b.png)
