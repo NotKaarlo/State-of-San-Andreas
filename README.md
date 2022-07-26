@@ -25,8 +25,8 @@
 ##
 
 ### Department Of Justice Log
-#### `~~#444778496112091~~`[^1].
-#### `~~#243142782492362~~`[^2].
+#### ~~`#444778496112091`~~[^1].
+#### ~~`#243142782492362`~~[^2].
 
 [^1]: This Case is closed and is now concluded by Department Of Justice.  
   (Case info at @TSDOJ) (Sign by Douglas James Washington).  
