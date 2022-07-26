@@ -26,12 +26,14 @@
 
 ##
 
-> ### `#DOJ-Justification`
-```
-Case #444778496112091 Has been closed and are now concluded by Department Of Justice
-(Case info at @TSDOJ) (Sign by Douglas James Washington)
+### Department Of Justice Log
 
-#243142782492362 has been payed by the defendant, Paid Fine of $700
-(More info at @TSDOJ)
-(Payment Completed)At 2022-07-26 17:55
-```
+#### `#444778496112091`
+- This Case is closed, and is now concluded by Department Of Justice.
+(Case info at @TSDOJ) (Sign by Douglas James Washington).
+Closed At `2022-07-26` `18:26`
+
+#### `#243142782492362`
+- Has been paid by the defendant, Fine of `$700`
+(More info at @TSDOJ) (Sign by Arnold McTrevor)
+Citation Paid At `2022-07-26` `17:55`
