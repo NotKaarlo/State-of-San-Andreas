@@ -42,16 +42,13 @@ title Department Of Justice Schedule
 excludes weekdays 2022-07-26
 
 section Cases
-Case8574        :done,                 2022-07-26,26h
-Case0957        :                      2022-08-10, 5d
-Case2352        :                      10h,30h
+Case0000              :        2022-07-26,5d
 
 section Arrests
-Report3514             :active,       2022-07-26,40h
-Report2683             :              2022-07-27,1d
+Report0000             :       2022-07-26,4d
 
 section Citations
-Report2744             :               2022-07-27,2d            
+Report0000             :       2022-07-26,3d            
 ```
 
 ### Department Of Justice Log
