@@ -22,14 +22,6 @@
   `Associate Justice`, **Frank Bowen**   
   `Associate Justice`, **Frederick Herrera** 
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```  
-
 ##
 
 ### Department Of Justice Log
