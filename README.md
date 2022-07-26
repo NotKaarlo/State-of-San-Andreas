@@ -4,13 +4,9 @@
 
 <h3 align="center">The State of San Andreas Administration</h3>
 
-#
-
 ### 🔰County(s) 
   
   [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
-
-#
 
 <div align="center">
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
