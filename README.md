@@ -19,5 +19,6 @@
 ```
 Case #444778496112091 Has been closed and are now conclude by Department Of Justice`
 
-#243142782492362 has been payed by the defendant [More Info Here]()
+#243142782492362 has been payed by the defendant
+(More info at @TSDOJ County)
 ```
