@@ -16,19 +16,17 @@
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
 </div>
 
-<dl>
-  <dt>Members Of San Andreas Supreme Court</dt>
-  <dd>Chief Justice, Agosto Mercati</dd>
-  <dd>Deputy Chief Justice, Arnold McTrevor</dd>
-  <dd>Associate Justice, Frank Bowen</dd>
-  <dd>Associate Justice, Frederick Herrera</dd>
-</dl>
+### Members Of San Andreas Supreme Court
+  `Chief Justice`, **Agosto Mercati**   
+  `Deputy Chief Justice`, **Arnold McTrevor**    
+  `Associate Justice`, **Frank Bowen**   
+  `Associate Justice`, **Frederick Herrera**   
 
 ##
 
 ### Department Of Justice Log
-#### `#444778496112091`[^1].
-#### `#243142782492362`[^2].
+#### `~~#444778496112091~~`[^1].
+#### `~~#243142782492362~~`[^2].
 
 [^1]: This Case is closed and is now concluded by Department Of Justice.  
   (Case info at @TSDOJ) (Sign by Douglas James Washington).  
