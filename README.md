@@ -1,7 +1,7 @@
 ## State of San Andreas Regulation
 
-> #### `@County(s)`
->> ###### [TSDOJ County](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
+> ### `@County(s)`
+>> #### [TSDOJ](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
 
 ##
 
