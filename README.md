@@ -16,7 +16,7 @@
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
 </div>
 
-### San Andreas Supreme Court And Federal Courts
+### `San Andreas Supreme Court`
  ###### `Chief Justice, Agosto Mercati`
  ###### `Deputy Chief Justice, Arnold McTrevor`
  ###### `Associate Justice, Frank Bowen`
