@@ -1,4 +1,4 @@
-## State of San Andreas Regulation
+## State of San Andreas Administration
 
 ### County(s), [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
 
