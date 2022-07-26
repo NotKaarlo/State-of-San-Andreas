@@ -29,7 +29,7 @@
 ### Department Of Justice Log
 
 #### `#444778496112091`
-- This Case is closed, and is now concluded by Department Of Justice.
+This Case is closed, and is now concluded by Department Of Justice.
 (Case info at @TSDOJ) (Sign by Douglas James Washington).
 Closed At `2022-07-26` `18:26`
 
@@ -37,3 +37,8 @@ Closed At `2022-07-26` `18:26`
 - Has been paid by the defendant, Fine of `$700`
 (More info at @TSDOJ) (Sign by Arnold McTrevor)
 Citation Paid At `2022-07-26` `17:55`
+
+#### `#444778496112091`[^1].
+
+[^1]:  This Case is closed and is now concluded by Department Of Justice.
+  This allows you to have a footnote with multiple lines.
