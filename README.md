@@ -4,9 +4,11 @@
 
 <h3 align="center">The State of San Andreas Administration</h3>
 
-### 🔰County(s) 
+<div align="center">
+<h3>🔰County(s)</h3> 
   
   [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
+</div>
 
 <div align="center">
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
@@ -44,12 +46,13 @@ Case8574        :done,                 2022-07-26,26h
 Case0957        :                      2022-08-10, 5d
 Case2352        :                      10h,30h
 
-section Reports
+section Arrests
 Report3514             :active,       2022-07-26,40h
-Report2683             :              2022-07-27,1d            
+Report2683             :              2022-07-27,1d
+
+section Citations
+Report2744             :               2022-07-27,2d            
 ```
-  
-##
 
 ### Department Of Justice Log
 #### ~~`#444778496112091`~~[^1]. `Closed`
