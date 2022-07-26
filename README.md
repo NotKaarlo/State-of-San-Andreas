@@ -6,7 +6,7 @@
 
 #
 
-`🔰County(s)` 
+### 🔰County(s) 
   
   [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
 
@@ -15,6 +15,3 @@
 <div align="center">
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
 </div>
-
-
-<img width="250" height="auto" src="https://961b5d7bec.cbaul-cdnwnd.com/bc706ede7c4ee7d111282692424954b3/200000064-5d9755e8fa/LSDOJ-4.png?ph=961b5d7bec" />
