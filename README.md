@@ -19,6 +19,7 @@
 ### San Andreas Supreme Court And Federal Courts
  `Chief Justice, Agosto Mercati`
  `Deputy Chief Justice, Arnold McTrevor`
+
  `Associate Justice, Frank Bowen`
  `Associate Justice, Frederick Herrera`
 
