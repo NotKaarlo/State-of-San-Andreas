@@ -16,10 +16,13 @@
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
 </div>
 
+`Chief Justice of San Andreas - Douglas James Washington`
+
+
 > ### `#DOJ-Justification`
 ```
-Case #444778496112091 Has been closed and are now conclude by Department Of Justice
-(Case info at @TSDOJ)
+Case #444778496112091 Has been closed and are now concluded by Department Of Justice
+(Case info at @TSDOJ) (Sign by Douglas James Washington)
 
 #243142782492362 has been payed by the defendant, Paid Fine of $700
 (More info at @TSDOJ)
