@@ -24,22 +24,18 @@
 
 ```mermaid
 classDiagram
-      Agosto Mercati <|-- Duck
-      Agosto Mercati <|-- Fish
-      Agosto Mercati <|-- Zebra
-      Agosto Mercati : +int age
-      class Duck{
-          +String beakColor
-          +swim()
-          +quack()
+      Agosto Mercati <|-- Frank Bowen
+      Agosto Mercati <|-- Arnold McTrevor
+      Agosto Mercati <|-- Frederick Herrera
+      Agosto Mercati : Chief Justice
+      class Frank Bowen{
+          Associate Justice
       }
-      class Fish{
-          -int sizeInFeet
-          -canEat()
+      class Arnold McTrevor{
+          Deputy Chief Justice
       }
-      class Zebra{
-          +bool is_wild
-          +run()
+      class Frederick Herrera{
+          Associate Justice
       }
 ```
 
