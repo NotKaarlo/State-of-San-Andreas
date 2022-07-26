@@ -2,7 +2,7 @@
 
 @Case(s) | @Arrests Report(s) | @Citation Report(s)
 --- | --- | ---
-[`Case#23444778496112091`](../blob/master/CaseD4778496112091.md) | `#0000-0000` | `#0000-0000`
+[`Case#23444778496112091`](https://github.com/NotKaarlo/State-of-San-Andreas/blob/126e5ea5fa67f2ca8b9bcf3f449b1667bc1d34d2/TSDOJ/Case%23444778496112091.md) | `#0000-0000` | `#0000-0000`
 
 ##
 
