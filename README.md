@@ -24,13 +24,10 @@
 
 ```mermaid
 classDiagram
-      Animal <|-- Duck
-      Animal <|-- Fish
-      Animal <|-- Zebra
-      Animal : +int age
-      Animal : +String gender
-      Animal: +isMammal()
-      Animal: +mate()
+      Agosto Mercati <|-- Duck
+      Agosto Mercati <|-- Fish
+      Agosto Mercati <|-- Zebra
+      Agosto Mercati : +int age
       class Duck{
           +String beakColor
           +swim()
