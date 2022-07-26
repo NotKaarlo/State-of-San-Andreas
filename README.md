@@ -17,12 +17,12 @@
 </div>
 
 ### San Andreas Supreme Court And Federal Courts
+
  `Chief Justice, Agosto Mercati`
  `Deputy Chief Justice, Arnold McTrevor`
-
  `Associate Justice, Frank Bowen`
  `Associate Justice, Frederick Herrera`
-
+---
 > ### `#DOJ-Justification`
 ```
 Case #444778496112091 Has been closed and are now concluded by Department Of Justice
