@@ -16,6 +16,7 @@
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
 </div>
 
+> ### `#DOJ-Justification`
 ```
 Case #444778496112091 Has been closed and are now conclude by Department Of Justice`
 
