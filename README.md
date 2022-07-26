@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=374F6B&height=200&section=header&text=State%20Of%20San%20Andreas&fontSize=35" />
-
 ## State of San Andreas Administration⚙️
 
 `🔰County(s)`, [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
