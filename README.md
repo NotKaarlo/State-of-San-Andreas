@@ -17,14 +17,10 @@
 </div>
 
 ### `San Andreas Supreme Court`
-
-`Chief Justice, Agosto Mercati`
-
-`Deputy Chief Justice, Arnold McTrevor`
-
-`Associate Justice, Frank Bowen`
-
-`Associate Justice, Frederick Herrera`
+- `Chief Justice, Agosto Mercati`
+- `Deputy Chief Justice, Arnold McTrevor`
+- `Associate Justice, Frank Bowen`
+- `Associate Justice, Frederick Herrera`
 
 
 > ### `#DOJ-Justification`
