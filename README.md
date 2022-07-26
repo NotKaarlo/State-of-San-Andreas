@@ -18,9 +18,10 @@
 
 > ### `#DOJ-Justification`
 ```
-Case #444778496112091 Has been closed and are now conclude by Department Of Justice`
+Case #444778496112091 Has been closed and are now conclude by Department Of Justice
+(Case info at @TSDOJ)
 
 #243142782492362 has been payed by the defendant, Paid Fine of $700
-(More info at @TSDOJ County)
-Date & Time, 2022-07-26 17:55 (Payment Completed)
+(More info at @TSDOJ)
+(Payment Completed)At 2022-07-26 17:55
 ```
