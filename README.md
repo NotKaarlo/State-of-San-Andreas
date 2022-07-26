@@ -37,7 +37,6 @@ classDiagram
 ```
 </div>
 
-
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
