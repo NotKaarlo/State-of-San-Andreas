@@ -16,11 +16,8 @@
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
 </div>
 
-### Members Of San Andreas Supreme Court
-  `Chief Justice`, **Agosto Mercati**   
-  `Deputy Chief Justice`, **Arnold McTrevor**    
-  `Associate Justice`, **Frank Bowen**   
-  `Associate Justice`, **Frederick Herrera** 
+<div align="center">
+  <h3>Members Of San Andreas Supreme Court</h3>
 
 ```mermaid
 classDiagram
@@ -38,6 +35,7 @@ classDiagram
           Associate Justice
       }
 ```
+</div>
 
 ##
 
