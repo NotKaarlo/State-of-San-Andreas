@@ -4,3 +4,6 @@
 
 
 ![SOSA](https://cdn.discordapp.com/attachments/987509275968544768/1001254852380336270/99-997199_san-andreas-highway-patrol-ocrp-hd-png-download.png)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notkaarlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
