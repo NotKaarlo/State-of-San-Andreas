@@ -1,6 +1,20 @@
-## State of San Andreas Administration⚙️
+<div align="center">
+<img width="250" height="auto" src="https://forum.nes-newlife.de/wcf/image-proxy/?key=f0c867469b101ad75cd2f12f2b055a36eb57b55bdaaa536c7a77576c58b9ae87-aHR0cHM6Ly9pLmliYi5jby9zYndMVFZYL1l1WHRjVDIucG5n" />
+</div>
 
-`🔰County(s)`, [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
+<h3 align="center">The State of San Andreas Administration</h3>
+
+#
+
+`🔰County(s)` 
+  
+  [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
+
+#
+
+<div align="center">
+<img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
+</div>
 
 
-<img width="100%" height="300" src="https://cdn.discordapp.com/attachments/987509275968544768/1001254852380336270/99-997199_san-andreas-highway-patrol-ocrp-hd-png-download.png" />
+<img width="250" height="auto" src="https://961b5d7bec.cbaul-cdnwnd.com/bc706ede7c4ee7d111282692424954b3/200000064-5d9755e8fa/LSDOJ-4.png?ph=961b5d7bec" />
