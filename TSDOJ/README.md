@@ -3,7 +3,7 @@
 > ### `@Reports`
 >
 >> #### `#Case(s)`
->>> ###### [Case#23444778496112091](https://github.com/NotKaarlo/FivePD-Reports/blob/c20ee3ca770e7dbb1099e0bfa90691d8e17f3c7f/TSDOJ/Case%23444778496112091.md)
+>>> ###### [Case#23444778496112091](https://github.com/NotKaarlo/State-of-San-Andreas/blob/master/TSDOJ/Case%23444778496112091.md)
 >
 >> #### `#Arrest Report(s)`
 >>> ###### [None](None)
