@@ -18,10 +18,10 @@
 
 <dl>
   <dt>Members Of San Andreas Supreme Court</dt>
-  <dd>`Chief Justice, Agosto Mercati`</dd>
-  <dd>`Deputy Chief Justice, Arnold McTrevor`</dd>
-  <dd>`Associate Justice, Frank Bowen`</dd>
-  <dd>`Associate Justice, Frederick Herrera`</dd>
+  <dd>Chief Justice, Agosto Mercati</dd>
+  <dd>Deputy Chief Justice, Arnold McTrevor</dd>
+  <dd>Associate Justice, Frank Bowen</dd>
+  <dd>Associate Justice, Frederick Herrera</dd>
 </dl>
 
 ##
