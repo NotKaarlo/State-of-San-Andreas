@@ -37,6 +37,23 @@ classDiagram
 ```
 </div>
 
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Department Of Justice Schedule
+excludes weekdays 2022-07-26
+
+section Cases
+Case8574        :done,                 2022-07-26,26h
+Case0957        :                      2022-08-10, 5d
+Case2352        :                      10h,30h
+
+section Reports
+Report3514             :active,       2022-07-26,40h
+Report2683             :              2022-07-27,1d            
+```
+  
 ##
 
 ### Department Of Justice Log
