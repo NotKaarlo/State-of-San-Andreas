@@ -16,7 +16,7 @@
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
 </div>
 
-`Chief Justice of San Andreas - Douglas James Washington`
+`Chief Justice of San Andreas, Douglas James Washington`
 
 
 > ### `#DOJ-Justification`
