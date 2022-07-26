@@ -56,8 +56,8 @@ Report0000             :       2022-07-26,3d
 #### ~~`#243142782492362`~~[^2]. `Closed`
 
 [^1]: This Case is closed and is now concluded by Department Of Justice.  
-  (Case info at @TSDOJ) (Sign by Douglas James Washington).  
+  (Case info at @TSDOJ) (Sign by *ArnoldMcTrevor*).  
   Closed At `2022-07-26` `18:26`    
 [^2]:  Has been paid by the defendant, Fine of `$700`  
-  (More info at @TSDOJ) (Sign by Arnold McTrevor)  
+  (More info at @TSDOJ) (Sign by *Arnold McTrevor*)  
   Citation Paid At `2022-07-26` `17:55`  
