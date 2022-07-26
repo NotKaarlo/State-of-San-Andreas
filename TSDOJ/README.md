@@ -2,23 +2,24 @@
 
 
 
-> <details>
-> <summary><code><h3>@Case(s)</h3></code></summary>
->
->> - ###### [Case#23444778496112091](https://github.com/NotKaarlo/State-of-San-Andreas/blob/master/TSDOJ/Case%23444778496112091.md)
-> </details>
->
-> <details>
-> <summary><code><h3>@Arrests Report(s)</h3></code></summary>
->
->> - ###### [0000-0000](0000-0000)
-> </details>
->
-> <details>
-> <summary><code><h3>@Citation Report(s)</h3></code></summary>
->
->> - ###### [0000-0000](0000-0000)
-> </details>
+<details>
+<summary><code><h3>@Case(s)</h3></code></summary>
+
+- ###### [Case#23444778496112091](https://github.com/NotKaarlo/State-of-San-Andreas/blob/master/TSDOJ/Case%23444778496112091.md)
+</details>
+
+<details>
+<summary><code><h3>@Arrests Report(s)</h3></code></summary>
+
+- ###### [0000-0000](0000-0000)
+</details>
+
+<details>
+<summary><code><h3>@Citation Report(s)</h3></code></summary>
+
+- ###### [0000-0000](0000-0000)
+</details>
+
 
 ##
 
