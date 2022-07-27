@@ -58,7 +58,7 @@ CR-2431              :done,       2022-07-26,16h
 
 [^1]: This Case is closed and is now concluded by Department Of Justice.  
   (Sign by **Deputy Chief Justice - Arnold McTrevor**).  
-  Closed At `2022-07-26` `18:26`  
+  Closed At `2022-07-26 | 18:26`  
   (More Details About the Case At([#243142782492362](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%243142782492362))   
 [^2]:  Has been paid by the defendant.   
   (Sign by **Deputy Chief Justice - Arnold McTrevor**)  
