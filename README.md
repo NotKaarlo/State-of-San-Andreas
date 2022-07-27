@@ -4,7 +4,9 @@
 
 <h2 align="center">The San Andreas State Government</h3>
 
-<img width="100%" height="auto" src="https://i.imgur.com/5QkLSF2.png" />
+<div align="center">
+<img width="140" height="140" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" />
+</div>
 
 ### Supreme Court of San Andreas
 - #### Judicial Positional Structure
@@ -13,6 +15,10 @@
      - *Justice* Bryson Legge
      - *Justice* Maria Simpson
      - *Justice* Santiago Whitworth
+
+<div align="center">
+<img width="100%" height="auto" src="" />
+</div>
 
 <div align=center>
 
