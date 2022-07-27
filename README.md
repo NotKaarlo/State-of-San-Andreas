@@ -22,28 +22,41 @@
    <h2>Supreme Court Judgement</h3>
 </div>
 
----
+<code><h4 align="center">`Case #243142782492362`</h4></code>
+
 ```
-Case #243142782492362 Verdict
+#243142782492362 Verdict (#Department: Los Santos Police Department)
 ```
 ```
 After throughout review of the case "243142782492362" the Supreme Court has come to a verdict on the allegations and
 is thus ready to deliver in accordance with all applicable federal, state, and local law and/or ordinance to ensure fair and just
 enforcement of the law within the boundaries of the state. It is of the official opinion of the court that;
 ```
-##
-**`That the victim Darrel Sampson was killed in a unusual car accident. 
-And no man i is liable for the death of defendant`**
-
-It is heneceforth ordered by Judge **Santiago Whitworth**, and shall be carried without delay. This court is now dismissed.
+```
+That the victim Darrel Sampson was killed in a unusual car accident. 
+And no man i is liable for the death of defendant
+```
+It is heneceforth ordered by Judge **Santiago Whitworth**, This court is now dismissed. Concluded at **2022-07-26 18:26**
 
 ---
 
+<code><h4 align="center">`Case #243142782492362`</h4></code>
 
+```
+#243142782492362 Verdict (#Department: Los Santos Police Department)
+```
+```ruby
++ After throughout review of the case "#243142782492362" the Supreme Court has come to a verdict on the allegations and
+is thus ready to deliver in accordance with all applicable federal, state, and local law and/or ordinance to ensure fair and just
+enforcement of the law within the boundaries of the state. It is of the official opinion of the court that;
+```
+```
+That the victim Darrel Sampson was killed in a unusual car accident. 
+And no man i is liable for the death of defendant
+```
+It is heneceforth ordered by Judge **Santiago Whitworth**, This court is now dismissed. Concluded at **2022-07-26 18:26**
 
-
-
-
+---
 
 
 <div align=center>
