@@ -32,7 +32,7 @@
 Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-26 18:26
 ```
 
-###### [`Case #243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%23444778496112091)
+###### [`Case #243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/%23444778496112091)
 ---
 
 ## `#444778496112091` `Concluded`
@@ -51,7 +51,7 @@ Careless Driving
 Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-24 17:55
 ```
 
-###### [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362)
+###### [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/%23243142782492362)
 
 ---
 
