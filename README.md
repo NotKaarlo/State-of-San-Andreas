@@ -22,53 +22,40 @@
    <h2>Supreme Court Judgement</h3>
 </div>
 
-<code><h4 align="center">`#243142782492362`</h4></code>
-
-```
-#243142782492362 Verdict (#Department: Los Santos Police Department)
-```
-```
-+ After throughout review of the case "243142782492362" the Supreme Court has come to a verdict on the allegations and
-+ is thus ready to deliver in accordance with all applicable federal, state, and local law and/or ordinance to ensure fair and just
-+ enforcement of the law within the boundaries of the state. It is of the official opinion of the court that;
-```
+## `#243142782492362`
 ```diff
-- That the victim Darrel Sampson was killed in a unusual car accident. 
-- And no man i is liable for the death of defendant
++ #243142782492362 Verdict (#Department: Los Santos Police Department)(County: TSDOJ)
+────────────────────────
+! After throughout review of the case "243142782492362" the Supreme Court has come to a verdict!
+- That the victim Darrel Sampson was killed in a unusual car accident. And no man i is liable for the death of Darrel Sampson
+────────────────────────
+! Ordered by {Judge Santiago Whitworth} , This court is now dismissed. Concluded at {2022-07-26 18:26}
 ```
-It is heneceforth ordered by Judge **Santiago Whitworth**, This court is now dismissed. Concluded at **2022-07-26 18:26**
 
 ###### [`Case #243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%23444778496112091)
 ---
 
-<code><h4 align="center">`#444778496112091`</h4></code>
-
+## `#444778496112091`
+```diff
++ #444778496112091 Fine (#Department: Blaine County Sheriff's Officer)(County: TSDOJ)
+────────────────────────
+- After throughout review of the case "#444778496112091" the Supreme Court has come to a verdict!
+- This Citation has been paid by Lacey Webb so the case has been closed. A fine of $700 was paid.
+────────────────────────
+- Violation(s) 
+Unlawful Speed Over 10-14 Over, 
+Unsafe Operation on Road/Highway, 
+Too Fast for Conditions, 
+Careless Driving
+────────────────────────
+! Ordered by Judge {Santiago Whitworth}, This court is now dismissed. Concluded at {2022-07-26 17:55}
 ```
-#243142782492362 Verdict (#Department: Los Santos Police Department)
-```
-```
-After throughout review of the case "#243142782492362" the Supreme Court has come to a verdict on the allegations and
-is thus ready to deliver in accordance with all applicable federal, state, and local law and/or ordinance to ensure fair and just
-enforcement of the law within the boundaries of the state. It is of the official opinion of the court that;
-```
-```
-That the victim Darrel Sampson was killed in a unusual car accident. 
-And no man i is liable for the death of defendant
-```
-It is heneceforth ordered by Judge **Santiago Whitworth**, This court is now dismissed. Concluded at **2022-07-26 18:26**
 
 ###### [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362)
 
 ---
 
-
 <div align=center>
-
-### `Supreme Court of San Andreas Case Records`
-| `ID`               | `Status`        | `Closed At`          | `Type`     | `Sign By`                              |  
-|--------------------|-----------------|----------------------|------------|----------------------------------------|  
-| [`#243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%23444778496112091) | `Concluded`     | `2022-07-26 / 18:26`  | `Case`     | `Deputy Chief Justice Arnold McTrevor` |  
-  | [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362) | `Paid & Closed` | `2022-07-26 / 17:55` | `Citation` | `Deputy Chief Justice Arnold McTrevor` |  
 
 </div>
 
