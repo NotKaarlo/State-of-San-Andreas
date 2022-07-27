@@ -4,10 +4,6 @@
 
 <h2 align="center">The San Andreas State Government</h3>
 
-<div align="center">
-<img width="100%" height="200" src="https://jsa.gta.world/styles/we_universal/theme/images/dashboard.jpg?assets_version=97" />
-</div>
-
 ### Supreme Court of San Andreas
 - #### Judicial Positional Structure
    - *Chief Justice* Bill Hunter
