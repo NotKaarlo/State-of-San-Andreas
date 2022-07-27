@@ -27,21 +27,3 @@ infancy. Various versions have evolved over the years, sometimes by accident, so
 [^2]:  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is      that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop        publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still              infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like). 
 
 ---
-
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-   1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
