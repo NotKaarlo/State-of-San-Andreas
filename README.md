@@ -13,8 +13,6 @@
      - *Justice* Santiago Whitworth
 
 <div align="center">
-<img width="50%" height="50%" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
-
    <h2>Supreme Court Judgement</h3>
 </div>
 
