@@ -1,8 +1,13 @@
 ### Home Site Links
 - https://notkaarlo.github.io/State-of-San-Andreas
    - https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/
-
-#### File Site Links
+##### Report Records 
+- Cases
+   - https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%23444778496112091
+- Arrests
+- Citations
+   - https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362
+### File Site Links
 - https://notkaarlo.github.io/State-of-San-Andreas/Files
    - none
 - https://notkaarlo.github.io/State-of-San-Andreas/Files/html/
