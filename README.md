@@ -39,16 +39,17 @@ classDiagram
 gantt
 dateFormat  YYYY-MM-DD
 title Department Of Justice Schedule
-excludes weekdays 2022-07-26
+excludes weekdays 2022-07-01
 
-section Cases
-Case0000              :        2022-07-26,5d
+section Case(s)
+C-4447               :done,       2022-07-26,13h
 
-section Arrests
-Report0000             :       2022-07-26,4d
+section Arrest(s)
+.                        :            2022-07-31,1h
+.                        :            2022-07-25,1h
 
-section Citations
-Report0000             :       2022-07-26,3d            
+section Citation(s)
+CR-2431              :done,       2022-07-26,16h          
 ```
 
 ### Department Of Justice Log
