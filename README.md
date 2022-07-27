@@ -25,30 +25,6 @@
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
 </div>
 
-<div align="center">
-
-<details>
-<summary><h3>Members Of San Andreas Supreme Court</h3></summary>
-
-```mermaid
-classDiagram
-      Agosto Mercati <|-- Frank Bowen
-      Agosto Mercati <|-- Arnold McTrevor
-      Agosto Mercati <|-- Frederick Herrera
-      Agosto Mercati : Chief Justice
-      class Frank Bowen{
-          Associate Justice
-      }
-      class Arnold McTrevor{
-          Deputy Chief Justice
-      }
-      class Frederick Herrera{
-          Associate Justice
-      }
-```
-</details>
-</div>
-
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
