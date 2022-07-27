@@ -22,31 +22,32 @@
    <h2>Supreme Court Judgement</h3>
 </div>
 
-<code><h4 align="center">`Case #243142782492362`</h4></code>
+<code><h4 align="center">`#243142782492362`</h4></code>
 
 ```
 #243142782492362 Verdict (#Department: Los Santos Police Department)
 ```
 ```
-After throughout review of the case "243142782492362" the Supreme Court has come to a verdict on the allegations and
-is thus ready to deliver in accordance with all applicable federal, state, and local law and/or ordinance to ensure fair and just
-enforcement of the law within the boundaries of the state. It is of the official opinion of the court that;
++ After throughout review of the case "243142782492362" the Supreme Court has come to a verdict on the allegations and
++ is thus ready to deliver in accordance with all applicable federal, state, and local law and/or ordinance to ensure fair and just
++ enforcement of the law within the boundaries of the state. It is of the official opinion of the court that;
 ```
-```
-That the victim Darrel Sampson was killed in a unusual car accident. 
-And no man i is liable for the death of defendant
+```diff
+- That the victim Darrel Sampson was killed in a unusual car accident. 
+- And no man i is liable for the death of defendant
 ```
 It is heneceforth ordered by Judge **Santiago Whitworth**, This court is now dismissed. Concluded at **2022-07-26 18:26**
 
+###### [`Case #243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%23444778496112091)
 ---
 
-<code><h4 align="center">`Case #243142782492362`</h4></code>
+<code><h4 align="center">`#444778496112091`</h4></code>
 
 ```
 #243142782492362 Verdict (#Department: Los Santos Police Department)
 ```
-```ruby
-+ After throughout review of the case "#243142782492362" the Supreme Court has come to a verdict on the allegations and
+```
+After throughout review of the case "#243142782492362" the Supreme Court has come to a verdict on the allegations and
 is thus ready to deliver in accordance with all applicable federal, state, and local law and/or ordinance to ensure fair and just
 enforcement of the law within the boundaries of the state. It is of the official opinion of the court that;
 ```
@@ -55,6 +56,8 @@ That the victim Darrel Sampson was killed in a unusual car accident.
 And no man i is liable for the death of defendant
 ```
 It is heneceforth ordered by Judge **Santiago Whitworth**, This court is now dismissed. Concluded at **2022-07-26 18:26**
+
+###### [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362)
 
 ---
 
