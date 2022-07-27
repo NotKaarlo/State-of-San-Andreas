@@ -15,7 +15,9 @@
 </div>
 
 <div align="center">
-  <h3>Members Of San Andreas Supreme Court</h3>
+
+<details open>
+<summary><h3>Members Of San Andreas Supreme Court</h3></summary>
 
 ```mermaid
 classDiagram
@@ -33,6 +35,7 @@ classDiagram
           Associate Justice
       }
 ```
+</details>
 </div>
 
 ```mermaid
