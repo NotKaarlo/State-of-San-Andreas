@@ -61,9 +61,11 @@ CR-2431              :done,       2022-07-26,16h
   Closed At `2022-07-26` `18:26`    
 [^2]:  Has been paid by the defendant.   
   (More info at @TSDOJ) (Sign by *Arnold McTrevor*)  
-  Citation Paid At `2022-07-26` `17:55`  
-  Violation(s):   
-  `Unlawful Speed Over 10-14 Over`,   
-  `Unsafe Operation on Road/Highway`,  
-  `Too Fast for Conditions`, `Careless Driving`  
-  Paid fine of `$700`   
+  Citation Paid At `2022-07-26 | 17:55`     
+  **Violation(s):**   
+  #`Unlawful Speed Over 10-14 Over`,   
+  #`Unsafe Operation on Road/Highway`,  
+  #`Too Fast for Conditions`,  
+  #`Careless Driving`  
+  Paid fine of `$700`
+  (More Details About the Report At([#444778496112091](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362))  
