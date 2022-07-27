@@ -32,14 +32,14 @@
 Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-26 18:26
 ```
 
-###### [`Case #243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/%23444778496112091)
+###### [`Case #243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/A%23444778496112091)
 ---
 
 ## `#444778496112091` `Concluded`
 ```diff
 + #444778496112091 Fine (#Department: Blaine County Sheriff's Officer)(County: TSDOJ)
 ────────────────────────
-- After throughout review of the case "#444778496112091" the Supreme Court has come to a verdict!
+! After throughout review of the case "#444778496112091" the Supreme Court has come to a verdict!
 - This Citation has been paid by Lacey Webb so the case has been closed. A fine of $700 was paid.
 ────────────────────────
 - Violation(s) 
@@ -51,7 +51,7 @@ Careless Driving
 Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-24 17:55
 ```
 
-###### [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/%23243142782492362)
+###### [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/A%23243142782492362)
 
 ---
 
