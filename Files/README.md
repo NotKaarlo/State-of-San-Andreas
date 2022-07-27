@@ -4,7 +4,7 @@ https://notkaarlo.github.io/State-of-San-Andreas/Files
 
 # Table of Contents
 1. [test-1](#test-1)
-   1. [test-1-Sub](#test-1-Sub)
+   - [test-1-Sub](#test-1-Sub)
 2. [test-2](#test-2)
 
 ##
