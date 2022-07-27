@@ -4,18 +4,16 @@
 
 <h2 align="center">The San Andreas State Government</h3>
 
-<img width="auto" height="auto" src="https://jsa.gta.world/styles/we_universal/theme/images/dashboard.jpg?assets_version=97" />
+<img width="auto" height="auto" src="https://i.imgur.com/5QkLSF2.png" />
 
-### Judiciary of San Andreas
+### Supreme Court of San Andreas
 - #### Judicial Positional Structure
-   - **Office of the Chief Justice**
-     - *Chief Justice*
-       - Agosto Mercati
-     - *Deputy Chief Justice*
-       - Arnold McTrevor
-     - *Associate Justice*
-       - Frederick Herrera
-       - Frank Bowen
+   - *Chief Justice* Bill Hunter
+     - *Justice* Dave Jackson
+     - *Justice* Bryson Legge
+     - *Justice* Maria Simpson
+     - *Justice* Santiago Whitworth
+
 
 <!--##### The Courts of San Andreas-->
 
@@ -25,7 +23,7 @@
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
 </div>
 
-```mermaid
+<?--```mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title  Department Of Justice Records Schedule
@@ -40,7 +38,7 @@ section Arrest(s)
 
 section Citation(s)
 CR-2431              :done,       2022-07-26,16h          
-```
+```-->
 
 --- 
 
@@ -54,12 +52,11 @@ CR-2431              :done,       2022-07-26,16h
   | [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362) | `Paid & Closed` | `2022-07-26 / 17:55` | `Citation` | `Deputy Chief Justice Arnold McTrevor` |  
 </div>
 
-<div align="right">
-<img width="auto" height="50" src="https://961b5d7bec.cbaul-cdnwnd.com/bc706ede7c4ee7d111282692424954b3/200000064-5d9755e8fa/LSDOJ-4.png?ph=961b5d7bec" />
-</div>
-
-
 <h3>🔰County(s)</h3> 
 
 ####  [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
 </div>
+
+<div align="right">
+<img width="auto" height="50" src="https://i.imgur.com/CvRbjh7.png" /> <img width="auto" height="50" src="https://i.ibb.co/6bwcmKr/icon-2000px.png" /> <img width="auto" height="50" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" /> 
+</div> 
