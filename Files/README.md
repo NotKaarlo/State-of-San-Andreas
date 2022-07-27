@@ -1,6 +1,6 @@
 ### Home Site Links
 - https://notkaarlo.github.io/State-of-San-Andreas
-   - - https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/
+   - https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/
 
 #### File Site Links
 - https://notkaarlo.github.io/State-of-San-Andreas/Files
