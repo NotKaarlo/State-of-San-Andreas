@@ -60,7 +60,7 @@ CR-2431              :done,       2022-07-26,16h
   (Case info at @TSDOJ) (Sign by *ArnoldMcTrevor*).  
   Closed At `2022-07-26` `18:26`    
 [^2]:  Has been paid by the defendant.   
-  (More info at @TSDOJ) (Sign by *Arnold McTrevor*)  
+  (Sign by **Deputy Chief Justice - Arnold McTrevor**)  
   Citation Paid At `2022-07-26 | 17:55`     
   **Violation(s):**   
   #`Unlawful Speed Over 10-14 Over`,   
