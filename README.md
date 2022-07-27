@@ -5,7 +5,7 @@
 <h2 align="center">The San Andreas State Government</h3>
 
 <div align="center">
-<img width="140" height="140" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" />
+<img width="140" height="140" src="https://jsa.gta.world/styles/we_universal/theme/images/dashboard.jpg?assets_version=97" />
 </div>
 
 ### Supreme Court of San Andreas
