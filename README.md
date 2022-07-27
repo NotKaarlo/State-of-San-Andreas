@@ -56,12 +56,10 @@ CR-2431              :done,       2022-07-26,16h
 #### ~~`#444778496112091`~~[^1]. `Closed`
 #### ~~`#243142782492362`~~[^2]. `Closed`
 
-
-
-[^1]: This Case is closed and is now concluded by Department Of Justice.  
+[^1]:  This Case is closed and is now concluded by Department Of Justice.  
   (Sign by **Deputy Chief Justice - Arnold McTrevor**).  
   Closed At `2022-07-26 | 18:26`  
-  (More Details About the Case At([#243142782492362](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%23444778496112091))   
+  (More Details About the Case At([`#243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%23444778496112091))   
 [^2]:  Has been paid by the defendant.   
   (Sign by **Deputy Chief Justice - Arnold McTrevor**)  
   Citation Paid At `2022-07-26 | 17:55`        
@@ -71,4 +69,9 @@ CR-2431              :done,       2022-07-26,16h
   #`Too Fast for Conditions`,  
   #`Careless Driving`  
   Paid fine of `$700`  
-  (More Details About the Report At([#444778496112091](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362))    
+  (More Details About the Report At([#444778496112091](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362))   
+
+  | `ID`               | `Status`        | `Closed At`          | `Type`     | `Sign By`                              |  
+  |--------------------|-----------------|----------------------|------------|----------------------------------------|  
+  | ([`#243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%23444778496112091)) | `Concluded`     | `2022-07-26` `18:26` | `Case`     | `Deputy Chief Justice Arnold McTrevor` |  
+  | ([`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362)) | `Paid & Closed` | `2022-07-26` `17:55` | `Citation` | `Deputy Chief Justice Arnold McTrevor` |  
