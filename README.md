@@ -61,6 +61,8 @@ Report0000             :       2022-07-26,3d
 [^2]:  Has been paid by the defendant.   
   (More info at @TSDOJ) (Sign by *Arnold McTrevor*)  
   Citation Paid At `2022-07-26` `17:55`  
-  Violation(s) `Unlawful Speed Over 10-14 Over`, `Unsafe Operation on Road/Highway`,  
+  Violation(s):   
+  `Unlawful Speed Over 10-14 Over`,   
+  `Unsafe Operation on Road/Highway`,  
   `Too Fast for Conditions`, `Careless Driving`  
   Paid fine of `$700`   
