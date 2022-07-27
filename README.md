@@ -30,7 +30,7 @@
 Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-26 18:26
 ```
 
-###### [`#243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/A%23444778496112091)
+###### [`#243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/C%23444778496112091)
 ---
 
 <div align=center>
