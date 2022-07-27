@@ -57,8 +57,9 @@ CR-2431              :done,       2022-07-26,16h
 #### ~~`#243142782492362`~~[^2]. `Closed`
 
 [^1]: This Case is closed and is now concluded by Department Of Justice.  
-  (Case info at @TSDOJ) (Sign by *ArnoldMcTrevor*).  
-  Closed At `2022-07-26` `18:26`    
+  (Sign by **Deputy Chief Justice - Arnold McTrevor**).  
+  Closed At `2022-07-26` `18:26`  
+  (More Details About the Case At([#243142782492362](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%243142782492362))   
 [^2]:  Has been paid by the defendant.   
   (Sign by **Deputy Chief Justice - Arnold McTrevor**)  
   Citation Paid At `2022-07-26 | 17:55`     
@@ -67,5 +68,5 @@ CR-2431              :done,       2022-07-26,16h
   #`Unsafe Operation on Road/Highway`,  
   #`Too Fast for Conditions`,  
   #`Careless Driving`  
-  Paid fine of `$700`
-  (More Details About the Report At([#444778496112091](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362))  
+  Paid fine of `$700`  
+  (More Details About the Report At([#444778496112091](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362))    
