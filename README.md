@@ -4,7 +4,7 @@
 
 <h2 align="center">The San Andreas State Government</h3>
 
-<img width="auto" height="auto" src="https://i.imgur.com/5QkLSF2.png" />
+<img width="100%" height="auto" src="https://2img.net/r/hpimg11/pics/360412SuperiorCourtofSanAndreas.png" />
 
 ### Supreme Court of San Andreas
 - #### Judicial Positional Structure
