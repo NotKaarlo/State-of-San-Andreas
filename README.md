@@ -22,20 +22,20 @@
    <h2>Supreme Court Judgement</h3>
 </div>
 
-## `#243142782492362`
+## `#243142782492362` `Concluded`
 ```diff
 + #243142782492362 Verdict (#Department: Los Santos Police Department)(County: TSDOJ)
 ────────────────────────
 ! After throughout review of the case "243142782492362" the Supreme Court has come to a verdict!
 - That the victim Darrel Sampson was killed in a unusual car accident. And no man i is liable for the death of Darrel Sampson
 ────────────────────────
-! Ordered by {Judge Santiago Whitworth} , This court is now dismissed. Concluded at {2022-07-26 18:26}
+Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-26 18:26
 ```
 
 ###### [`Case #243142782492362`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/Case%23444778496112091)
 ---
 
-## `#444778496112091`
+## `#444778496112091` `Concluded`
 ```diff
 + #444778496112091 Fine (#Department: Blaine County Sheriff's Officer)(County: TSDOJ)
 ────────────────────────
@@ -48,7 +48,7 @@ Unsafe Operation on Road/Highway,
 Too Fast for Conditions, 
 Careless Driving
 ────────────────────────
-! Ordered by Judge {Santiago Whitworth}, This court is now dismissed. Concluded at {2022-07-26 17:55}
+Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-24 17:55
 ```
 
 ###### [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/CR%23243142782492362)
