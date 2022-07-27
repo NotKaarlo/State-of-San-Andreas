@@ -7,7 +7,7 @@
 <img width="auto" height="auto" src="https://jsa.gta.world/styles/we_universal/theme/images/dashboard.jpg?assets_version=97" />
 
 ### Judiciary of San Andreas
-- ##### Judicial Positional Structure
+- #### Judicial Positional Structure
    - **Office of the Chief Justice**
      - *Chief Justice*
        - Agosto Mercati
