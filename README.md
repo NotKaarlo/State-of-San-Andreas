@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<details open>
+<details>
 <summary><h3>Members Of San Andreas Supreme Court</h3></summary>
 
 ```mermaid
