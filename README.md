@@ -41,9 +41,9 @@ section Citation(s)
 CR-2431              :done,       2022-07-26,16h          
 ```
 
-<!--<h3>🔰County(s)</h3> 
+<h3>🔰County(s)</h3> 
 
-  #### [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)-->
+ [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
 
 <div align="right">
 <img width="auto" height="50" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" /> <img width="auto" height="50" src="https://i.imgur.com/CvRbjh7.png" /> <img width="auto" height="50" src="https://i.ibb.co/6bwcmKr/icon-2000px.png" /> <img width="auto" height="50" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" /> 
