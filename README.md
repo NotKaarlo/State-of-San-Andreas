@@ -1,15 +1,25 @@
 <div align="center">
-<img width="250" height="auto" src="https://forum.nes-newlife.de/wcf/image-proxy/?key=f0c867469b101ad75cd2f12f2b055a36eb57b55bdaaa536c7a77576c58b9ae87-aHR0cHM6Ly9pLmliYi5jby9zYndMVFZYL1l1WHRjVDIucG5n" />
-</div>
+<img width="200" height="auto" src="https://i.imgur.com/CvRbjh7.png" /> <img width="200" height="auto" src="https://i.ibb.co/6bwcmKr/icon-2000px.png" /> <img width="200" height="auto" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" /> 
+</div> 
 
-<h3 align="center">The State of San Andreas Administration</h3>
+<h2 align="center">The San Andreas State Government</h3>
 
-<div align="center">
+<img width="auto" height="auto" src="https://jsa.gta.world/styles/we_universal/theme/images/dashboard.jpg?assets_version=97" />
 
-<h3>🔰County(s)</h3> 
+### Judiciary of San Andreas
+- ##### Judicial Positional Structure
+   - **Office of the Chief Justice**
+     - *Chief Justice*
+       - Agosto Mercati
+     - *Deputy Chief Justice*
+       - Arnold McTrevor
+     - *Associate Justice*
+       - Frederick Herrera
+       - Frank Bowen
 
-####  [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
-</div>
+<!--##### The Courts of San Andreas-->
+
+<!--##### Judicial Positional Structure-->
 
 <div align="center">
 <img width="auto" height="130" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
@@ -70,4 +80,10 @@ CR-2431              :done,       2022-07-26,16h
 
 <div align="right">
 <img width="auto" height="50" src="https://961b5d7bec.cbaul-cdnwnd.com/bc706ede7c4ee7d111282692424954b3/200000064-5d9755e8fa/LSDOJ-4.png?ph=961b5d7bec" />
+</div>
+
+
+<h3>🔰County(s)</h3> 
+
+####  [`TSDOJ`](https://github.com/NotKaarlo/FivePD-Reports/tree/main/TSDOJ)
 </div>
