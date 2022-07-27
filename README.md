@@ -63,4 +63,4 @@ Report0000             :       2022-07-26,3d
   Citation Paid At `2022-07-26` `17:55`  
   Violation(s) `Unlawful Speed Over 10-14 Over`, `Unsafe Operation on Road/Highway`,  
   `Too Fast for Conditions`, `Careless Driving` 
-  Paid fine of `$700`  
+  Paid fine of `$700`   
