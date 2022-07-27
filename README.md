@@ -5,7 +5,7 @@
 <h2 align="center">The San Andreas State Government</h3>
 
 <div align="center">
-<img width="140" height="140" src="https://jsa.gta.world/styles/we_universal/theme/images/dashboard.jpg?assets_version=97" />
+<img width="100%" height="200" src="https://jsa.gta.world/styles/we_universal/theme/images/dashboard.jpg?assets_version=97" />
 </div>
 
 ### Supreme Court of San Andreas
@@ -17,8 +17,34 @@
      - *Justice* Santiago Whitworth
 
 <div align="center">
-<img width="100%" height="auto" src="" />
+<img width="50%" height="50%" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" />
+
+   <h2>Supreme Court Judgement</h3>
 </div>
+
+---
+```
+Case #243142782492362 Verdict
+```
+```
+After throughout review of the case "243142782492362" the Supreme Court has come to a verdict on the allegations and
+is thus ready to deliver in accordance with all applicable federal, state, and local law and/or ordinance to ensure fair and just
+enforcement of the law within the boundaries of the state. It is of the official opinion of the court that;
+```
+##
+**`That the victim Darrel Sampson was killed in a unusual car accident. 
+And no man i is liable for the death of defendant`**
+
+It is heneceforth ordered by Judge **Santiago Whitworth**, and shall be carried without delay. This court is now dismissed.
+
+---
+
+
+
+
+
+
+
 
 <div align=center>
 
