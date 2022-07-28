@@ -22,11 +22,11 @@
 
 ```diff
 + #444778496112091 Verdict (#Department: Los Santos Police Department)(County: TSDOJ)
-────────────────────────
+
 ! After throughout review of the case "243142782492362" the Supreme Court has come to a verdict!
 - That the victim Darrel Sampson was killed in a unusual car accident. 
 - And no man i is liable for the death of Darrel Sampson
-────────────────────────
+
 Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-26 18:26
 ```
 
