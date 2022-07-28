@@ -30,24 +30,6 @@
 Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-26 18:26
 ```
 
-
-```mermaid
-gantt
-dateFormat  YYYY-MM-DD
-title Supreme Court Case Schedule
-excludes weekdays 2022-07-01
-
-section Case(s)
-C-4447               :done,       2022-07-26,13h
-
-section Arrest(s)
-.                        :            2022-07-31,1h
-.                        :            2022-07-25,1h
-
-section Citation(s)
-CR-2431              :done,       2022-07-26,16h          
-```
-
 <p align="center">
 <img width="50%" height="auto" src="https://cdn.discordapp.com/attachments/987509275968544768/1002011618395308112/1736727322_SAECbanner.png.9042b1b157fb1c151256ec4212895145.png" />
 </p> 
