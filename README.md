@@ -2,7 +2,7 @@
 <img width="200" height="auto" src="https://i.imgur.com/CvRbjh7.png" /> <img width="200" height="auto" src="https://i.ibb.co/6bwcmKr/icon-2000px.png" /> <img width="200" height="auto" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" /> 
 </p> 
 
-<h2 align="center">The San Andreas State Government</h3>
+<h3 align="center">The San Andreas State Government</h3>
 
 <p align="center">
 <img width="160" height="160" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" />
@@ -10,11 +10,11 @@
 
 ### Supreme Court of San Andreas
 - #### Judicial Positional Structure
-   - *Chief Justice* Bill Hunter
-     - *Justice* Dave Jackson
-     - *Justice* Bryson Legge
-     - *Justice* Maria Simpson
-     - *Justice* Santiago Whitworth
+   - **Chief Justice Bill Hunter**
+   - *Justice Dave Jackson*
+   - *Justice Bryson Legge*
+   - *Justice Maria Simpson*
+   - *Justice Santiago Whitworth*
 
 <h3 align="center">Supreme Court Judgement</h3>
 
