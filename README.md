@@ -16,7 +16,7 @@
      - *Justice* Maria Simpson
      - *Justice* Santiago Whitworth
 
-<h2 align="center">Supreme Court Judgement</h3>
+<h3 align="center">Supreme Court Judgement</h3>
 
 ### `#444778496112091` `Concluded`
 
