@@ -18,7 +18,8 @@
 
 <h2 align="center">Supreme Court Judgement</h3>
 
-## `#444778496112091` `Concluded`
+### `#444778496112091` `Concluded`
+
 ```diff
 + #444778496112091 Verdict (#Department: Los Santos Police Department)(County: TSDOJ)
 ────────────────────────
@@ -28,6 +29,7 @@
 ────────────────────────
 Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-26 18:26
 ```
+
 
 ```mermaid
 gantt
