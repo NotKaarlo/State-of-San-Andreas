@@ -31,12 +31,8 @@
 Ordered by Judge Santiago Whitworth, This court is now dismissed. Concluded at 2022-07-26 18:26
 ```
 
-###### [`#444778496112091`](https://notkaarlo.github.io/State-of-San-Andreas/TSDOJ/C%444778496112091)
+###### [`#444778496112091`]()
 ---
-
-<div align=center>
-
-</div>
 
 ```mermaid
 gantt
