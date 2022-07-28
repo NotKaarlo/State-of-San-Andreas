@@ -60,7 +60,7 @@ CR-2431              :done,       2022-07-26,16h
 ```
 
 <div align="center">
-<img width="200" height="auto" src="https://cdn.discordapp.com/attachments/987509275968544768/1002011618395308112/1736727322_SAECbanner.png.9042b1b157fb1c151256ec4212895145.png" />
+<img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/987509275968544768/1002011618395308112/1736727322_SAECbanner.png.9042b1b157fb1c151256ec4212895145.png" />
 </div> 
 
 
