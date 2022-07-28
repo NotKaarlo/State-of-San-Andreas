@@ -2,7 +2,7 @@
 <img width="200" height="auto" src="https://i.imgur.com/CvRbjh7.png" /> <img width="200" height="auto" src="https://i.ibb.co/6bwcmKr/icon-2000px.png" /> <img width="200" height="auto" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" /> 
 </p> 
 
-<h3 align="center">The San Andreas State Government</h3>
+<h2 align="center">The San Andreas State Government</h2>
 
 <p align="center">
 <img width="160" height="160" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" />
