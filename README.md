@@ -1,14 +1,14 @@
-<div align="center">
+<p align="center">
 <img width="200" height="auto" src="https://i.imgur.com/CvRbjh7.png" /> <img width="200" height="auto" src="https://i.ibb.co/6bwcmKr/icon-2000px.png" /> <img width="200" height="auto" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" /> 
-</div> 
+</p> 
 
 <h2 align="center">The San Andreas State Government</h3>
 
 
 
-<div align="center">
+<p align="center">
 <img width="160" height="160" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" />
-</div>
+</p>
 
 
 
@@ -20,13 +20,7 @@
      - *Justice* Maria Simpson
      - *Justice* Santiago Whitworth
 
-
-
-<div align="center">
-   <h2>Supreme Court Judgement</h3>
-</div>
-
-
+<h2 align="center">Supreme Court Judgement</h3>
 
 ## `#444778496112091` `Concluded`
 ```diff
@@ -59,11 +53,11 @@ section Citation(s)
 CR-2431              :done,       2022-07-26,16h          
 ```
 
-<div align="center">
+<p align="center">
 <img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/987509275968544768/1002011618395308112/1736727322_SAECbanner.png.9042b1b157fb1c151256ec4212895145.png" />
-</div> 
+</p> 
 
 
-<div align="center">
+<p align="center">
 <img width="auto" height="50" src="https://justice-ls.xyz/wp-content/uploads/2020/07/doj-vector.png" /> <img width="auto" height="50" src="https://i.imgur.com/CvRbjh7.png" /> <img width="auto" height="50" src="https://i.ibb.co/6bwcmKr/icon-2000px.png" /> <img width="auto" height="50" src="https://i.ibb.co/kB4PVf0/Supreme-Court-4-2.png" /> 
-</div> 
+</p> 
